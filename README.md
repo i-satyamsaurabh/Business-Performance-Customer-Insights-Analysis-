@@ -7,7 +7,7 @@
 
 > End-to-end business analytics project analyzing 12,500+ sales transactions to derive actionable insights on customer behavior, product performance, and revenue optimization strategies.
 
-![Project Banner](assets/dashboard-preview.png)
+![Project Banner](pictures/1)
 
 ## 🎯 Project Overview
 
@@ -55,14 +55,14 @@ This comprehensive data analytics project examines 6 months of retail sales data
 
 ## 📊 Dashboard Previews
 
-### Executive Dashboard
-![Executive Dashboard](dashboards/dashboard_screenshots/executive_summary.png)
+### Sales Analysis Dashboard
+![Executive Dashboard](pictures/2)
 
 ### Customer Insights
-![Customer Insights](dashboards/dashboard_screenshots/customer_insights.png)
+![Customer Insights](pictures/3)
 
 ### Product Performance
-![Product Performance](dashboards/dashboard_screenshots/product_performance.png)
+![Product Performance](pictures/4)
 
 ## 🚀 Getting Started
 
