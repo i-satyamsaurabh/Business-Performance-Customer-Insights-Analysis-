@@ -166,7 +166,7 @@ Based on the analysis, key strategic recommendations include:
 **Satyam Saurabh**
 - 📧 Email: satyam2610saurabh@gmail.com
 - 💼 LinkedIn: [linkedin.com/in/satyam-saurabh](https://linkedin.com/in/satyam-saurabh)
-- 🌐 Portfolio: [your-portfolio-link.com](https://i-satyamsaurabh.github.io/My-Portfolio/)
+- 🌐 Portfolio: [My Old Portfolio](https://i-satyamsaurabh.github.io/My-Portfolio/)
 - 📍 Location: Muzaffarpur, Bihar, India
 
 ## 📄 License
